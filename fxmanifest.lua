@@ -62,3 +62,7 @@ data_file 'AUDIO_WAVEPACK' 'sfx/dlc_taaud40v8'
 data_file 'AUDIO_GAMEDATA' 'audioconfig/mercm177_game.dat'
 data_file 'AUDIO_SOUNDDATA' 'audioconfig/mercm177_sounds.dat'
 data_file 'AUDIO_WAVEPACK' 'sfx/dlc_mercm177'
+-- Suzuki GSXR1000 Sound (Motorbike/SuperBike)
+data_file 'AUDIO_GAMEDATA' 'audioconfig/suzukigsxr1k_game.dat'
+data_file 'AUDIO_SOUNDDATA' 'audioconfig/suzukigsxr1k_sounds.dat'
+data_file 'AUDIO_WAVEPACK' 'sfx/dlc_suzukigsxr1k'
