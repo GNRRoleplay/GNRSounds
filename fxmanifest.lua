@@ -66,3 +66,7 @@ data_file 'AUDIO_WAVEPACK' 'sfx/dlc_mercm177'
 data_file 'AUDIO_GAMEDATA' 'audioconfig/suzukigsxr1k_game.dat'
 data_file 'AUDIO_SOUNDDATA' 'audioconfig/suzukigsxr1k_sounds.dat'
 data_file 'AUDIO_WAVEPACK' 'sfx/dlc_suzukigsxr1k'
+-- 2JZ Sound
+data_file 'AUDIO_GAMEDATA' 'audioconfig/aq2jzgterace_game.dat'
+data_file 'AUDIO_SOUNDDATA' 'audioconfig/aq2jzgterace_sounds.dat'
+data_file 'AUDIO_WAVEPACK' 'sfx/dlc_aq2jzgterace'
