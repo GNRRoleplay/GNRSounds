@@ -75,3 +75,7 @@ data_file "AUDIO_SYNTHDATA" "audioconfig/lgcy00vr6_amp.dat"
 data_file "AUDIO_GAMEDATA" "audioconfig/lgcy00vr6_game.dat"
 data_file "AUDIO_SOUNDDATA" "audioconfig/lgcy00vr6_sounds.dat"
 data_file "AUDIO_WAVEPACK" "sfx/dlc_lgcy00vr6"
+-- Twin Turbo V10 Sound (R8 & Lambo)
+data_file "AUDIO_GAMEDATA" "audioconfig/audr8tteng_game.dat"
+data_file "AUDIO_SOUNDDATA" "audioconfig/audr8tteng_sounds.dat"
+data_file "AUDIO_WAVEPACK" "sfx/dlc_audr8tteng"
