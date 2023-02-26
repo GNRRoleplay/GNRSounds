@@ -70,3 +70,8 @@ data_file 'AUDIO_WAVEPACK' 'sfx/dlc_suzukigsxr1k'
 data_file 'AUDIO_GAMEDATA' 'audioconfig/aq2jzgterace_game.dat'
 data_file 'AUDIO_SOUNDDATA' 'audioconfig/aq2jzgterace_sounds.dat'
 data_file 'AUDIO_WAVEPACK' 'sfx/dlc_aq2jzgterace'
+-- Volkswagen VR6 Sound
+data_file "AUDIO_SYNTHDATA" "audioconfig/lgcy00vr6_amp.dat"
+data_file "AUDIO_GAMEDATA" "audioconfig/lgcy00vr6_game.dat"
+data_file "AUDIO_SOUNDDATA" "audioconfig/lgcy00vr6_sounds.dat"
+data_file "AUDIO_WAVEPACK" "sfx/dlc_lgcy00vr6"
