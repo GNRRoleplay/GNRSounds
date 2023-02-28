@@ -79,3 +79,7 @@ data_file "AUDIO_WAVEPACK" "sfx/dlc_lgcy00vr6"
 data_file "AUDIO_GAMEDATA" "audioconfig/audr8tteng_game.dat"
 data_file "AUDIO_SOUNDDATA" "audioconfig/audr8tteng_sounds.dat"
 data_file "AUDIO_WAVEPACK" "sfx/dlc_audr8tteng"
+-- M5 E60 Sound
+data_file 'AUDIO_GAMEDATA' 'audioconfig/s85b50_game.dat'
+data_file 'AUDIO_SOUNDDATA' 'audioconfig/s85b50_sounds.dat'
+data_file 'AUDIO_WAVEPACK' 'sfx/dlc_s85b50'
