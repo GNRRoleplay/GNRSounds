@@ -83,3 +83,7 @@ data_file "AUDIO_WAVEPACK" "sfx/dlc_audr8tteng"
 data_file 'AUDIO_GAMEDATA' 'audioconfig/s85b50_game.dat'
 data_file 'AUDIO_SOUNDDATA' 'audioconfig/s85b50_sounds.dat'
 data_file 'AUDIO_WAVEPACK' 'sfx/dlc_s85b50'
+-- Demon Sound
+data_file 'AUDIO_GAMEDATA' 'audioconfig/npolchar_game.dat'
+data_file 'AUDIO_SOUNDDATA' 'audioconfig/npolchar_sounds.dat'
+data_file 'AUDIO_WAVEPACK' 'sfx/dlc_npolchar'
