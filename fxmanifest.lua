@@ -95,3 +95,7 @@ data_file 'AUDIO_WAVEPACK' 'sfx/dlc_audiea855'
 data_file 'AUDIO_GAMEDATA' 'audioconfig/aq36hyutheta2n_game.dat'
 data_file 'AUDIO_SOUNDDATA' 'audioconfig/aq36hyutheta2n_sounds.dat'
 data_file 'AUDIO_WAVEPACK' 'sfx/dlc_aq36hyutheta2n'
+-- Civic K20 Sound
+data_file 'AUDIO_GAMEDATA' 'audioconfig/k20a_game.dat'
+data_file 'AUDIO_SOUNDDATA' 'audioconfig/k20a_sounds.dat'
+data_file 'AUDIO_WAVEPACK' 'sfx/dlc_k20a'
