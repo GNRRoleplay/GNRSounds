@@ -91,3 +91,7 @@ data_file 'AUDIO_WAVEPACK' 'sfx/dlc_npolchar'
 data_file 'AUDIO_GAMEDATA' 'audioconfig/audiea855_game.dat'
 data_file 'AUDIO_SOUNDDATA' 'audioconfig/audiea855_sounds.dat'
 data_file 'AUDIO_WAVEPACK' 'sfx/dlc_audiea855'
+-- Volstner N Sound
+data_file 'AUDIO_GAMEDATA' 'audioconfig/aq36hyutheta2n_game.dat'
+data_file 'AUDIO_SOUNDDATA' 'audioconfig/aq36hyutheta2n_sounds.dat'
+data_file 'AUDIO_WAVEPACK' 'sfx/dlc_aq36hyutheta2n'
