@@ -87,3 +87,7 @@ data_file 'AUDIO_WAVEPACK' 'sfx/dlc_s85b50'
 data_file 'AUDIO_GAMEDATA' 'audioconfig/npolchar_game.dat'
 data_file 'AUDIO_SOUNDDATA' 'audioconfig/npolchar_sounds.dat'
 data_file 'AUDIO_WAVEPACK' 'sfx/dlc_npolchar'
+-- RS3 Sound
+data_file 'AUDIO_GAMEDATA' 'audioconfig/audiea855_game.dat'
+data_file 'AUDIO_SOUNDDATA' 'audioconfig/audiea855_sounds.dat'
+data_file 'AUDIO_WAVEPACK' 'sfx/dlc_audiea855'
