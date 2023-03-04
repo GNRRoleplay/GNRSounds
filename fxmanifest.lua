@@ -99,3 +99,7 @@ data_file 'AUDIO_WAVEPACK' 'sfx/dlc_aq36hyutheta2n'
 data_file 'AUDIO_GAMEDATA' 'audioconfig/k20a_game.dat'
 data_file 'AUDIO_SOUNDDATA' 'audioconfig/k20a_sounds.dat'
 data_file 'AUDIO_WAVEPACK' 'sfx/dlc_k20a'
+-- M3 E92 Sound
+data_file 'AUDIO_GAMEDATA' 'audioconfig/s65b40_game.dat'
+data_file 'AUDIO_SOUNDDATA' 'audioconfig/s65b40_sounds.dat'
+data_file 'AUDIO_WAVEPACK' 'sfx/dlc_s65b40'
