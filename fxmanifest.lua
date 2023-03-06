@@ -112,3 +112,7 @@ data_file "AUDIO_SYNTHDATA" "audioconfig/kc28sr180_amp.dat"
 data_file "AUDIO_GAMEDATA" "audioconfig/kc28sr180_game.dat"
 data_file "AUDIO_SOUNDDATA" "audioconfig/kc28sr180_sounds.dat"
 data_file "AUDIO_WAVEPACK" "sfx/dlc_kc28sr180"
+-- Ford F150 V8 Sound
+data_file 'AUDIO_GAMEDATA' 'audioconfig/aq02coyotef150_game.dat'
+data_file 'AUDIO_SOUNDDATA' 'audioconfig/aq02coyotef150_sounds.dat'
+data_file 'AUDIO_WAVEPACK' 'sfx/dlc_aq02coyotef150'
