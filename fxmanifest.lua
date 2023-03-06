@@ -103,3 +103,7 @@ data_file 'AUDIO_WAVEPACK' 'sfx/dlc_k20a'
 data_file 'AUDIO_GAMEDATA' 'audioconfig/s65b40_game.dat'
 data_file 'AUDIO_SOUNDDATA' 'audioconfig/s65b40_sounds.dat'
 data_file 'AUDIO_WAVEPACK' 'sfx/dlc_s65b40'
+-- Nissan GTR Sound
+data_file 'AUDIO_GAMEDATA' 'audioconfig/aq10nisvr38dett_game.dat'
+data_file 'AUDIO_SOUNDDATA' 'audioconfig/aq10nisvr38dett_sounds.dat'
+data_file 'AUDIO_WAVEPACK' 'sfx/dlc_aq10nisvr38dett'
