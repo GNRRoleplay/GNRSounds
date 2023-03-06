@@ -107,3 +107,8 @@ data_file 'AUDIO_WAVEPACK' 'sfx/dlc_s65b40'
 data_file 'AUDIO_GAMEDATA' 'audioconfig/aq10nisvr38dett_game.dat'
 data_file 'AUDIO_SOUNDDATA' 'audioconfig/aq10nisvr38dett_sounds.dat'
 data_file 'AUDIO_WAVEPACK' 'sfx/dlc_aq10nisvr38dett'
+-- Nissan S13/14/15 Sound
+data_file "AUDIO_SYNTHDATA" "audioconfig/kc28sr180_amp.dat"
+data_file "AUDIO_GAMEDATA" "audioconfig/kc28sr180_game.dat"
+data_file "AUDIO_SOUNDDATA" "audioconfig/kc28sr180_sounds.dat"
+data_file "AUDIO_WAVEPACK" "sfx/dlc_kc28sr180"
