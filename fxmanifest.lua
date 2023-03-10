@@ -116,3 +116,7 @@ data_file "AUDIO_WAVEPACK" "sfx/dlc_kc28sr180"
 data_file 'AUDIO_GAMEDATA' 'audioconfig/aq02coyotef150_game.dat'
 data_file 'AUDIO_SOUNDDATA' 'audioconfig/aq02coyotef150_sounds.dat'
 data_file 'AUDIO_WAVEPACK' 'sfx/dlc_aq02coyotef150'
+-- BMW M5 V8 Sound
+data_file 'AUDIO_GAMEDATA' 'audioconfig/s63b44_game.dat'
+data_file 'AUDIO_SOUNDDATA' 'audioconfig/s63b44_sounds.dat'
+data_file 'AUDIO_WAVEPACK' 'sfx/dlc_s63b44'
