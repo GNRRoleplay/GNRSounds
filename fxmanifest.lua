@@ -120,3 +120,8 @@ data_file 'AUDIO_WAVEPACK' 'sfx/dlc_aq02coyotef150'
 data_file 'AUDIO_GAMEDATA' 'audioconfig/s63b44_game.dat'
 data_file 'AUDIO_SOUNDDATA' 'audioconfig/s63b44_sounds.dat'
 data_file 'AUDIO_WAVEPACK' 'sfx/dlc_s63b44'
+-- Toyota GT86 Sound
+data_file "AUDIO_SYNTHDATA" "audioconfig/kc41gt86na_amp.dat"
+data_file "AUDIO_GAMEDATA" "audioconfig/kc41gt86na_game.dat"
+data_file "AUDIO_SOUNDDATA" "audioconfig/kc41gt86na_sounds.dat"
+data_file "AUDIO_WAVEPACK" "sfx/dlc_kc41gt86na"
